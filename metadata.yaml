@@ -1,5 +1,8 @@
 _repo: The-Gun-Alley-Tragedy-Record-of-the-Trial-of-Colin-Campbell-Ross_62861
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62861-h/images/cover.jpg
 creator:
   author:
     agent_name: Brennan, T. C. (Thomas Cornelius)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52163
     wikipedia: https://en.wikipedia.org/wiki/Tom_Brennan_(politician)
 description: 'Colin Campbell Ross at Wikipedia: https://en.wikipedia.org/wiki/Colin_Campbell_Ross'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62861#The-Gun-Alley-Tragedy-Record-of-the-Trial-of-Colin-Campbell-Ross
 gutenberg_issued: '2020-08-06'
 gutenberg_type: Text
 identifiers:
